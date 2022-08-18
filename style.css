@@ -1,0 +1,50 @@
+/* CSS Document */
+
+
+h1{color: red;}
+
+*{
+	margin: 0;
+	padding: 0;
+}
+body {
+
+background-color: black;
+
+color: #555555
+}
+
+{font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"
+font-weight: bold;}
+
+.box-1{
+	background-color: #333
+		
+/* long way border-right: 5px red solid;
+border-left: 5px red solid;
+border-top: 5px red solid;
+border-bottom: 5px red solid; */
+
+border-width: 3px;
+border-bottom-width: 10px;
+border-top-style: dotted;
+padding-top: 20px;
+padding: 20px;
+margin-top: 20px 0;
+}
+	
+body{ margin: 0
+.container {
+	width: 80%;
+	margin:auto;
+}
+
+
+
+	
+p{color: #ff1493;}
+
+
+
+
+
